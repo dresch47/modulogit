@@ -1,0 +1,3 @@
+esse arquivo foi criado no repositótio remoto e não está no repositotório local.
+para que ele seja adicionado no repositorio local, deve-se dar um git pull origin 'nome do branch'
+
